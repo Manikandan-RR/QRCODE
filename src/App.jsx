@@ -1,5 +1,5 @@
 
-import { Qrcode } from "./Qrcode/Qrcode"
+import { Qrcode } from "./QRCode/Qrcode"
 
 function App() {
   
