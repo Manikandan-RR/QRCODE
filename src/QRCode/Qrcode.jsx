@@ -1,7 +1,6 @@
 import { useState } from "react"
 import "./Qrcode.css"
-import dummyqr from "../assets/images/qr_dummy.png"
-import sampleqr from "../assets/images/qr_sample.jpeg"
+
 
 export const Qrcode = () => {
 
